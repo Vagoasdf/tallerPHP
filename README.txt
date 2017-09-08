@@ -1,5 +1,8 @@
-El taller-crud-master era el ejemplo que provenía desde el  github.
+Taller-crud-master
 
-Si bienhice las funcionalidades, la verdad,lo de recargar texto me parecio trabajoso con MySQLi,  asi como transformar todo a PDO. por lo que hize un segundo ejemplo (siguiendo una guia que estaba del profesor arriba) con otro CRUD.
+Proveniente de otro github, conteniendo ejemplos de MySQLi. Considero MySQLi obsoleta, por lo que me limite a generar un crud básico y no avanzarlo mucho. Lo admito, no me gusta.
+-------
 
-Adjunto aquella guía igualmente, junto con el SQL de  la BD
+tallerLista
+
+lista de usuarios generada con un CRUD. Básico y simple, funciona, ahora mismo se esta pasando a JQUERY ((Considerar migrarlo a JQUERY como otra branch? nah, otra carpeta noma))
