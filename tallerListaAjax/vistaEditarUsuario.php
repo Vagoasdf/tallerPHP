@@ -7,7 +7,7 @@ $stmt->bindParam(':rut', $rut);
 $stmt->execute();
 $result=$stmt->fetchAll();
 $datos=$result[0];
-
+var_dump($datos);
 
 ?>
 
